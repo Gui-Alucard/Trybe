@@ -1,0 +1,33 @@
+/* HSL */
+$color1: hsla(191%, 100%, 67%, 1);
+$color2: hsla(132%, 24%, 90%, 1);
+$color3: hsla(50%, 20%, 90%, 1);
+$color4: hsla(28%, 85%, 86%, 1);
+$color5: hsla(356%, 72%, 78%, 1);
+
+/* RGB */
+$color1: rgba(0, 139, 170, 1);
+$color2: rgba(173, 229, 184, 1);
+$color3: rgba(230, 222, 184, 1);
+$color4: rgba(220, 121, 32, 1);
+$color5: rgba(200, 56, 66, 1);
+
+/* HEX */
+$color1: #008baaff;
+$color2: #ade5b8ff;
+$color3: #e6deb8ff;
+$color4: #dc7920ff;
+$color5: #c83842ff;
+
+/* GRADIENT */
+$gradient-top: linear-gradient(0deg, #008baaff, #ade5b8ff, #e6deb8ff, #dc7920ff, #c83842ff);
+$gradient-right: linear-gradient(90deg, #008baaff, #ade5b8ff, #e6deb8ff, #dc7920ff, #c83842ff);
+$gradient-bottom: linear-gradient(180deg, #008baaff, #ade5b8ff, #e6deb8ff, #dc7920ff, #c83842ff);
+$gradient-left: linear-gradient(270deg, #008baaff, #ade5b8ff, #e6deb8ff, #dc7920ff, #c83842ff);
+$gradient-top-right: linear-gradient(45deg, #008baaff, #ade5b8ff, #e6deb8ff, #dc7920ff, #c83842ff);
+$gradient-bottom-right: linear-gradient(135deg, #008baaff, #ade5b8ff, #e6deb8ff, #dc7920ff, #c83842ff);
+$gradient-top-left: linear-gradient(225deg, #008baaff, #ade5b8ff, #e6deb8ff, #dc7920ff, #c83842ff);
+$gradient-bottom-left: linear-gradient(315deg, #008baaff, #ade5b8ff, #e6deb8ff, #dc7920ff, #c83842ff);
+$gradient-radial: radial-gradient(#008baaff, #ade5b8ff, #e6deb8ff, #dc7920ff, #c83842ff);
+
+https://coolors.co/008baa-ade5b8-e6deb8-dc7920-c83842
