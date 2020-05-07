@@ -1,25 +1,101 @@
 /*
--- Estilos CSS - Website da Empresa
+-- Estilos CSS -
 */
 
 /*
 -- Padrões e Reset
 */
-
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
 /*
 -- Tipografia e Cores
 */
 @import url('https://fonts.googleapis.com/css?family=Jost&display=swap');
+
 body {
   background-color: rgb(25, 25, 25);
   font-size: 16px;
   font-family: "Jost", Helvetica, Arial, sans-serif;
   color: rgba(245, 245, 245, 1);
 }
+
+a:link {
+  color: rgb(255, 255, 0);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(255, 255, 0);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(175, 175, 175);
+  text-decoration: none;
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+a:active {
+  color: rgb(0, 150, 150);
+  text-decoration: none;
+}
+
+.barra-menu li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+p {
+  font-size: 16px;
+  margin-bottom: 1.5em;
+  line-height: 1.6em;
+}
+
+.conteudo-principal h1 {
+  font-size: 40px;
+  margin-bottom: 0.5em;
+}
+
+.conteudo-secundario h3 {
+  font-size: 28px;
+  margin-bottom: 0.5em;
+}
+
+.conteudo-terceario h3,
+.conteudo-quartenario h3 {
+  font-size: 22px;
+  margin-bottom: 0.5em;
+}
+
+.conteudo-terceario ul,
+.contudo-quartenario ol {
+  font-size: 16px;
+  margin-left: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.conteudo-terceario ul {
+  list-style-type: square;
+}
+
+.conteudo-terceario li {
+  margin-bottom: 0.3em;
+}
+
+.conteudo-quartenario li {
+  margin-bottom: 0.5em;
+  margin-left: 1.5em;
+}
 /*
 -- Estrutura
 */
-
+.cabecalho {
+  position: relative;
+}
 /*
 -- Estilos específicos de Seção
 */
@@ -35,10 +111,3 @@ body {
 /*
 -- Classes de Uso Geral
 */
-/* RGB */
-$color1: rgba(255, 240, 30, 1);
-$color2: rgba(240, 30, 0, 1);
-$color3: rgba(245, 245, 245, 1);
-$color4: rgba(155, 155, 155, 1);
-$color5: rgba(65, 65, 65, 1);
-$color6: rgba(5, 5, 5, 1);
