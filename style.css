@@ -1,7 +1,7 @@
 /*
 -- Estilos CSS -
 */
-img {
+#how {
   height: 230px;
   width: 230px;
   object-fit: cover;
@@ -14,6 +14,26 @@ img {
 /*
 -- Padrões e Reset
 */
+a:link {
+  color: rgb(255, 255, 0);
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(255, 255, 0);
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(175, 175, 175);
+  text-decoration: none;
+}
+a:focus {
+  text-decoration: none;
+}
+a:active {
+  color: rgb(0, 150, 150);
+  text-decoration: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
@@ -23,43 +43,12 @@ h1, h2, h3, h4, h5, h6 {
 @import url('https://fonts.googleapis.com/css?family=Jost&display=swap');
 
 body {
-  display: flex;
-  flex-direction: column;
-  height: auto;
-  margin: auto;
-  justify-content: center;
-  align-items: center;
   background-image: linear-gradient(180deg, rgb(55, 55, 55), rgb(20, 20, 20));
   background-origin: content-box;
   background-clip: content-box;
   background-size: cover;
-  font-size: 16px;
-  font-family: "Jost", Helvetica, Arial, sans-serif;
-  color: rgba(245, 245, 245, 1);
-}
-
-a:link {
-  color: rgb(255, 255, 0);
-  text-decoration: none;
-}
-
-a:visited {
-  color: rgb(255, 255, 0);
-  text-decoration: none;
-}
-
-a:hover {
-  color: rgb(175, 175, 175);
-  text-decoration: none;
-}
-
-a:focus {
-  text-decoration: none;
-}
-
-a:active {
-  color: rgb(0, 150, 150);
-  text-decoration: none;
+  display: flex;
+  flex-direction: column;
 }
 
 .barra-menu li {
@@ -67,46 +56,54 @@ a:active {
   list-style-type: none;
 }
 
+.todo-conteudo {
+  font-size: 16px;
+  font-family: "Jost", Helvetica, Arial, sans-serif;
+  color: rgba(245, 245, 245, 1);
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  align-items: center;
+  margin: auto;
+}
+
+.minha-foto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 600px;
+  margin: auto;
+}
+.conteudo-principal h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+.conteudo-principal {
+  width: 600px;
+  align-items: center;
+  margin: auto;
+}
 p {
   font-size: 16px;
   margin-bottom: 1.5em;
   line-height: 1.6em;
 }
-
-.conteudo-principal h1 {
-  font-size: 40px;
-  margin-bottom: 0.5em;
-}
-
 .conteudo-secundario h3 {
   font-size: 28px;
+  text-align: center;
   margin-bottom: 0.5em;
 }
 
 .conteudo-terceario h3,
 .conteudo-quartenario h3 {
   font-size: 22px;
+  text-align: center;
   margin-bottom: 0.5em;
-}
-
-.conteudo-terceario ul,
-.contudo-quartenario ol {
-  font-size: 16px;
-  margin-left: 1.5em;
-  margin-bottom: 1.5em;
 }
 
 .conteudo-terceario ul {
-  list-style-type: square;
-}
-
-.conteudo-terceario li {
-  margin-bottom: 0.3em;
-}
-
-.conteudo-quartenario li {
-  margin-bottom: 0.5em;
-  margin-left: 1.5em;
+  list-style-type: none;
 }
 /*
 -- Estrutura e Posicionamento
@@ -121,14 +118,8 @@ p {
 .conteudo-quartenario {
   font-family: "Jost", Helvetica, Arial, sans-serif;
   list-style: none;
-  padding: 0;
   width: 400px;
-  margin: 60px auto;
   color: rgba(245, 245, 245, 1);
-}
-
-.conteudo-quartenario li {
-  margin: 40px 25px;
 }
 
 .bar-soft {
@@ -193,7 +184,6 @@ p {
   list-style: none;
   padding: 0;
   width: 400px;
-  margin: 60px auto;
   color: rgba(245, 245, 245, 1);
 }
 
@@ -221,32 +211,6 @@ p {
   width: 75%;
   animation: html5 2s;
 }
-
-.css3 {
-  width: 65%;
-  animation: css3 2s;
-}
-
-.javascript {
-  width: 40%;
-  animation: javascript 2s;
-}
-
-.shellscript {
-  width: 55%;
-  animation: shellscript 2s;
-}
-
-.git-bar {
-  width: 70%;
-  animation: git-bar 2s;
-}
-
-.mobile {
-  width: 20%;
-  animation: mobile 2s;
-}
-
 @keyframes html5 {
   0%{
     width: 0%;
@@ -254,6 +218,10 @@ p {
   100%{
     width: 75%;
   }
+}
+.css3 {
+  width: 65%;
+  animation: css3 2s;
 }
 @keyframes css3 {
   0%{
@@ -263,6 +231,10 @@ p {
     width: 65%;
   }
 }
+.javascript {
+  width: 40%;
+  animation: javascript 2s;
+}
 @keyframes javascript {
   0%{
     width: 0%;
@@ -270,6 +242,10 @@ p {
   100%{
     width: 40%;
   }
+}
+.shellscript {
+  width: 55%;
+  animation: shellscript 2s;
 }
 @keyframes shellscript {
   0%{
@@ -279,6 +255,10 @@ p {
     width: 55%;
   }
 }
+.git-bar {
+  width: 70%;
+  animation: git-bar 2s;
+}
 @keyframes git-bar {
   0%{
     width: 0%;
@@ -286,6 +266,10 @@ p {
   100%{
     width: 70%;
   }
+}
+.mobile {
+  width: 20%;
+  animation: mobile 2s;
 }
 @keyframes mobile {
   0%{
