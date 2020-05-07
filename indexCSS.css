@@ -118,6 +118,184 @@ p {
 -- Estilos específicos de Seção
 */
 
+.conteudo-quartenario {
+  font-family: "Jost", Helvetica, Arial, sans-serif;
+  list-style: none;
+  padding: 0;
+  width: 400px;
+  margin: 60px auto;
+  color: rgba(245, 245, 245, 1);
+}
+
+.conteudo-quartenario li {
+  margin: 40px 25px;
+}
+
+.bar-soft {
+  background: rgb(26, 26, 26);
+  display: block;
+  height: 10px;
+  border: 1.5px solid rgb(0,0,0,0,3);
+  border-radius: 7px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgb(235, 235, 0);
+}
+
+.bar-soft span {
+  height: 10px;
+  float: left;
+  background: rgb(255, 255, 70);
+}
+
+.self-learning {
+  width: 85%;
+  animation: self-learning 2s;
+}
+@keyframes self-learning {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width: 85%;
+  }
+}
+
+.resilient {
+  width: 75%;
+  animation: resilient 2s;
+}
+@keyframes resilient {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width: 75%;
+  }
+}
+
+.creative {
+  width: 95%;
+  animation: creative 2s;
+}
+@keyframes creative {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width: 95%;
+  }
+}
+/*
+-- tercearios - bar
+*/
+.conteudo-terceario {
+  font-family: "Jost", Helvetica, Arial, sans-serif;
+  list-style: none;
+  padding: 0;
+  width: 400px;
+  margin: 60px auto;
+  color: rgba(245, 245, 245, 1);
+}
+
+.conteudo-terceario li {
+  margin: 20px 0;
+}
+
+.bar-progress {
+  background: rgb(41, 41, 41);
+  display: block;
+  height: 10px;
+  border: 1.5px solid rgb(0,0,0,0,3);
+  border-radius: 7px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgb(235, 235, 0);
+}
+
+.bar-progress span {
+  height: 10px;
+  float: left;
+  background: rgb(255, 255, 70);
+}
+
+.html5 {
+  width: 75%;
+  animation: html5 2s;
+}
+
+.css3 {
+  width: 65%;
+  animation: css3 2s;
+}
+
+.javascript {
+  width: 40%;
+  animation: javascript 2s;
+}
+
+.shellscript {
+  width: 55%;
+  animation: shellscript 2s;
+}
+
+.git-bar {
+  width: 70%;
+  animation: git-bar 2s;
+}
+
+.mobile {
+  width: 20%;
+  animation: mobile 2s;
+}
+
+@keyframes html5 {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width: 75%;
+  }
+}
+@keyframes css3 {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width: 65%;
+  }
+}
+@keyframes javascript {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width: 40%;
+  }
+}
+@keyframes shellscript {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width: 55%;
+  }
+}
+@keyframes git-bar {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width: 70%;
+  }
+}
+@keyframes mobile {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width: 20%;
+  }
+}
+
 /*
 -- Formulários
 */
