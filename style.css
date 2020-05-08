@@ -85,11 +85,16 @@ body {
   margin: auto;
 }
 p {
+  color: rgba(245, 245, 245, 1);
   font-size: 16px;
   margin-bottom: 1.5em;
   line-height: 1.6em;
 }
+.destaque-fonte {
+  color: rgb(255, 240, 30);
+}
 .conteudo-secundario h3 {
+  color: rgba(245, 245, 245, 1);
   font-size: 28px;
   text-align: center;
   margin-bottom: 0.5em;
