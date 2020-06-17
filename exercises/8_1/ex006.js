@@ -67,7 +67,27 @@ const books = [
 const expected_result = false
 
 function everyoneWasBornOnSecXX() {
-  // escreva seu código aqui
+  return books.every( (objBirth) => {
+    if (objBirth.author.birthYear > 1900) {
+      return objBirth
+    }
+  })
+}
+assert.equal(everyoneWasBornOnSecXX(), expected_result);
+
+/*
+Outra forma de fazer
+
+function everyoneWasBornOnSecXX() {
+  const checkCentury = books.every(book => book.author.birthYear >= 1900);
+  return checkCentury;
 }
 
-assert.equal(everyoneWasBornOnSecXX(), expected_result);
+Mais uma forma (simples)
+
+function everyoneWasBornOnSecXX() {
+  return books.every(book => {
+    return book.author.birthYear >= 1900;
+  });
+}
+*/
