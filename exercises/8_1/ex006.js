@@ -63,11 +63,11 @@ const books = [
   },
 ];
 
-//Encontre o nome da pessoa autora do livro nascida no ano de 1947. use find.
-function authorBornIn1947() {
-  return books.find(findBirthYear => {
-    return findBirthYear.author.birthYear === 1947;
-  }).author.name;
+//Faça uma função que retorne true, se todas as pessoas autoras nasceram no século XX, ou false, caso contrário. use every
+const expected_result = false
+
+function everyoneWasBornOnSecXX() {
+  // escreva seu código aqui
 }
 
-assert.equal(authorBornIn1947(), 'Stephen King');
+assert.equal(everyoneWasBornOnSecXX(), expected_result);

@@ -63,11 +63,20 @@ const books = [
   },
 ];
 
-//Encontre o nome da pessoa autora do livro nascida no ano de 1947. use find.
-function authorBornIn1947() {
-  return books.find(findBirthYear => {
-    return findBirthYear.author.birthYear === 1947;
-  }).author.name;
+const expected_result = {
+  author: {
+    birthYear: 1948,
+    name: 'George R. R. Martin'
+  },
+  genre: 'Fantasia',
+  id: 1,
+  name: 'As Crônicas de Gelo e Fogo',
+  releaseYear: 1991
+};
+
+//Encontre o livro cujo nome possui 26 caracteres. use find
+function getNamedBook() {
+  // escreva seu código aqui
 }
 
-assert.equal(authorBornIn1947(), 'Stephen King');
+assert.deepEqual(getNamedBook(), expected_result);

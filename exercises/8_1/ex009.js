@@ -63,11 +63,11 @@ const books = [
   },
 ];
 
-//Encontre o nome da pessoa autora do livro nascida no ano de 1947. use find.
-function authorBornIn1947() {
-  return books.find(findBirthYear => {
-    return findBirthYear.author.birthYear === 1947;
-  }).author.name;
+//Encontre o nome do livro escrito pela pessoa cujo nome registrado começa com três iniciais (terminam com um ponto). use find e filter
+const expected_result = 'O Senhor dos Anéis';
+
+function authorWith3DotsOnName() {
+  // escreva seu código aqui
 }
 
-assert.equal(authorBornIn1947(), 'Stephen King');
+assert.deepEqual(authorWith3DotsOnName(), expected_result);
