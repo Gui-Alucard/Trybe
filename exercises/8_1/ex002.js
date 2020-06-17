@@ -65,16 +65,28 @@ const books = [
 
 //Retorne o nome do livro de menor nome. use forEach
 function smallerName() {
-  let nameBook;
+  let nameBook = 'Algum texto grande para comparar';
   // escreva aqui o seu código
   books.forEach( (bookObj) => {
-    const listaLivros = bookObj.name;
-    listaLivros.forEach( (nome) => {
-
-    })
+    if (bookObj.name.length < nameBook.length) {
+      nameBook = bookObj.name;
+    }
   });
   // Variável nameBook que receberá o valor do menor nome;
   return nameBook;
 }
-
 assert.equal(smallerName(), 'Duna');
+
+/*
+Aqui o correto seria escrever do seguinte jeito: adicionando um paramêtro indice no forEach
+para garantir que a nameBook 'n' fique vazia e possa ser comparada sem mexer com sua declaraçao inicial (vazia).
+function smallerName() {
+  let nameBook;
+  books.forEach((book, i) => {
+    const {length} = book.name;  // {length} não sei o que é isso!
+    if(i === 0) nameBook = book.name;
+    else if(length < nameBook.length) nameBook = book.name;
+  });
+  return nameBook;
+}
+*/
