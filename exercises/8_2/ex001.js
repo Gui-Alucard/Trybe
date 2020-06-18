@@ -72,7 +72,9 @@ const expected_result = [
 
 // Crie um array ordenado com os nomes de todas as pessoas autoras de ficção científica ou fantasia. use as funções filter e map
 function fantasyOrScienceFictionAuthors() {
-  // escreva seu código aqui
+  const genre = books.filter( (objGenre) => objGenre.genre === 'Fantasia' || objGenre.genre === 'Ficção Científica');
+  const newArray = genre.map( (objGenre) => objGenre.author.name);
+  return newArray.sort();
 }
-
+// console.log(fantasyOrScienceFictionAuthors());
 assert.deepEqual(fantasyOrScienceFictionAuthors(), expected_result);
