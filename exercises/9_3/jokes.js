@@ -8,6 +8,7 @@ while (arrTen.length < 10) {
 console.log(arrTen);
 
 // _____________ API & Method _____________
+
 const API_URL = 'https://icanhazdadjoke.com/';
 
 const myObject = {
@@ -17,7 +18,7 @@ const myObject = {
 
 // _____________ DOM _____________
 
-const sendToHtml = (joke) => {
+const sendToHtml = (joke) => { // o param podia ser batatinha kk
   let parag = document.querySelector("h2");
   parag.innerHTML = joke;
 }
@@ -25,10 +26,7 @@ const sendToHtml = (joke) => {
 // _____________ Promise + Callbacks _____________
 
 const fetchJoke = () => {
-  // console.logs
-  function onSuccess () {
-    console.log('Success!')
-  }
+  // console.log
   function onError () {
     console.log('É mais de oito mil! Essa promise deve estar quebrada!')
   }
@@ -40,15 +38,12 @@ const fetchJoke = () => {
       fetch(API_URL, myObject)
         .then(response => response.json())
         .then(data => sendToHtml(data.joke));
-      fetch(API_URL, myObject);
-      sendToHtml(fetch(API_URL, myObject))
       resolve()
     }
     reject()
   })
-  promise.then(onSuccess)
+  promise.then(fetch(API_URL, myObject))
   promise.catch(onError)
 };
 
 window.onload = () => fetchJoke();
-        
