@@ -1,6 +1,6 @@
 # Trybe
 
-This repository contains all learning activities developed by *[Guilherme Silva Oliveira]()* while studying at [Trybe](https://www.betrybe.com/) :rocket:
+This repository contains all learning activities developed by *[Guilherme Silva Oliveira](PROCESSANDO...)* while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
 *"Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, at Trybe they only start paying when they get a good job."*
 
@@ -20,7 +20,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] 3-2: *HTML & CSS - Getting Started with CSS*
 - [x] 3-3: *HTML & CSS - Selectors and positioning*
 - [x] 3-4: *Semantic HTML*
-- [x] 3-5: *[Project - HTML & CSS]()*
+- [x] 3-5: *[Project - HTML & CSS](https://gui-alucard.github.io/Project_01/project-html-css/)*
 ##### Block 4: Introduction - JavaScript
 - [x] 4-1: *JavaScript - Getting Started*
 - [x] 4-2: *JavaScript - For Array and Loop*
@@ -31,11 +31,11 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] 4-7: *JavaScript - Events*
 - [x] 4-8: *JavaScript - Web Storage*
 ##### Block 5: Introduction - JavaScript - Projects
-- [x] 5-1: *[Project - Meme Generator]()*
-- [x] 5-2: *[Project - Art with Pixels]()*
-- [x] 5-3: *[Project - Task List]()*
-- [x] 5-4: *[Project - Guess the Color]()*
-- [x] 5-5: *[Project - Mysterious Card]()*
+- [x] 5-1: *[Project - Meme Generator](https://gui-alucard.github.io/Project_02-Meme-Generator/)*
+- [x] 5-2: *[Project - Art with Pixels](https://gui-alucard.github.io/Project_02-artist/index.html)*
+- [x] 5-3: *[Project - Task List](https://gui-alucard.github.io/Project_02-task-list/index.html)*
+- [] 5-4: *[Project - Guess the Color]()*
+- [] 5-5: *[Project - Mysterious Card]()*
 
 ## Front-end development :hourglass_flowing_sand:
 ##### Block 6: Introduction - Front-end
@@ -43,7 +43,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] 6-2: *JavaScript libraries and CSS frameworks*
 - [x] 6-3: *CSS Flexbox - Part 1*
 - [x] 6-4: *CSS Flexbox - Part 2*
-- [x] 6-5: *[Project - Facebook home]()*
+- [x] 6-5: *[Project - Facebook home](https://gui-alucard.github.io/Project_03/)*
 ##### Block 7: Introduction - Responsiveness & Animations with CSS
 - [x] 7-1: *Responsive CSS - Mobile First*
 - [x] 7-2: *CSS animations - Part 1*
