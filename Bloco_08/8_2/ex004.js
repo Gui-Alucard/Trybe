@@ -63,11 +63,37 @@ const books = [
   },
 ];
 
-const expected_result = 43;
+const expected_result = [
+  {
+    id: 6,
+    name: 'O Chamado de Cthulhu',
+    genre: 'Terror',
+    author: { name: 'H. P. Lovecraft', birthYear: 1890 },
+    releaseYear: 1928
+  },
+  {
+    id: 3,
+    name: 'Fundação',
+    genre: 'Ficção Científica',
+    author: { name: 'Isaac Asimov', birthYear: 1920 },
+    releaseYear: 1951
+  },
+  {
+    id: 2,
+    name: 'O Senhor dos Anéis',
+    genre: 'Fantasia',
+    author: { name: 'J. R. R. Tolkien', birthYear: 1892 },
+    releaseYear: 1954
+  }
+]
 
-// Calcule a média de idade que as pessoas autoras tinham quando seus respectivos livros foram lançados. Utilize a função reduce
-function averageAge() {
-  // escreva seu código aqui
+// Crie um array ordenado pelos livros com mais de 60 anos de publicação e ordene-o pelo livro mais velho. FILTER, SORT
+function oldBooks() {
+  const arrayBooks = books
+    .filter(book => book.releaseYear <= 1959)
+    .sort((oldBook, oldestBook) => oldBook.releaseYear - oldestBook.releaseYear);
+
+  return arrayBooks;
 }
 
-assert.equal(averageAge(), expected_result);
+assert.deepEqual(oldBooks(), expected_result);
