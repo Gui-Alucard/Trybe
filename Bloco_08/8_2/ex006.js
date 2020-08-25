@@ -64,17 +64,16 @@ const books = [
 ];
 
 const expected_result = [
-  'As Crônicas de Gelo e Fogo - Fantasia - George R. R. Martin',
-  'O Senhor dos Anéis - Fantasia - J. R. R. Tolkien',
-  'Fundação - Ficção Científica - Isaac Asimov',
-  'Duna - Ficção Científica - Frank Herbert',
-  'A Coisa - Terror - Stephen King',
-  'O Chamado de Cthulhu - Terror - H. P. Lovecraft'
-];
+  'O Senhor dos Anéis',
+  'Fundação',
+  'O Chamado de Cthulhu'
+]
 
-// Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_PESSOA_AUTORA. Use a função map
-function formatedBookNames() {
-  // escreva seu código aqui
+// Crie um array com o nome de todos os livros com mais de 60 anos de publicação.
+function oldBooks() {
+  return books
+    .filter(book => 2020 - book.releaseYear > 60)
+    .map(book => book.name);
 }
 
-assert.deepEqual(formatedBookNames(), expected_result);
+assert.deepEqual(oldBooks(), expected_result);

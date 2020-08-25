@@ -63,43 +63,11 @@ const books = [
   },
 ];
 
-const expected_result = [
-  {
-    age: 31,
-    author: 'Isaac Asimov'
-  },
-  {
-    age: 38,
-    author: 'H. P. Lovecraft'
-  },
-  {
-    age: 39,
-    author: 'Stephen King'
-  },
-  {
-    age: 43,
-    author: 'George R. R. Martin'
-  },
-  {
-    age: 45,
-    author: 'Frank Herbert'
-  },
-  {
-    age: 62,
-    author: 'J. R. R. Tolkien'
-  }
-];
+const expected_result = 'O Senhor dos Anéis';
 
-/*
-Construa um array de objetos a partir do array de livros.
-Cada objeto deve conter uma propriedade author, com o nome da pessoa autora do livro,
-E uma propriedade age com a idade dessa pessoa quando o livro foi lançado.
-O array deve ser ordenado por idade, ou seja, da pessoa mais jovem para a mais velha
-Considerando suas idades quando o livro foi lançado.
-*/
-// use as funções map, sort
-function nameAndAge() {
-  // escreva seu código aqui
+// Encontre o nome do livro escrito pela pessoa cujo nome registrado começa com três iniciais (terminam com um ponto).
+function authorWith3DotsOnName() {
+  
 }
 
-assert.deepEqual(nameAndAge(), expected_result);
+assert.deepEqual(authorWith3DotsOnName(), expected_result);
