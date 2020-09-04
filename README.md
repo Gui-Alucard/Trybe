@@ -24,7 +24,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] 3-2: *HTML & CSS - Getting Started with CSS*
 - [x] 3-3: *HTML & CSS - Selectors and positioning*
 - [x] 3-4: *Semantic HTML*
-- [x] 3-5: *[Project - HTML & CSS](https://gui-alucard.github.io/Project_01/project-html-css/)*
+- [x] 3-5: *[Project - HTML & CSS](https://gui-alucard.github.io/Block03-Project-HTML-CSS/project-html-css/)*
 ##### Block 4: Introduction - JavaScript
 - [x] 4-1: *JavaScript - Introduction - JavaScript*
 - [x] 4-1: *JavaScript - Getting Started*
@@ -37,9 +37,9 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] 5-3: *JavaScript - Events*
 - [x] 5-4: *JavaScript - Web Storage*
 - [x] 5-5: *Introduction - JavaScript - Projects*
-- [x] 5-5: *[Project - Meme Generator](https://gui-alucard.github.io/Project_02-Meme-Generator/)*
-- [x] 5-6: *[Project - Art with Pixels](https://gui-alucard.github.io/Project_02-artist/index.html)*
-- [x] 5-7: *[Project - Task List](https://gui-alucard.github.io/Project_02-task-list/index.html)*
+- [x] 5-5: *[Project - Meme Generator](https://gui-alucard.github.io/Block05-Project-Meme-Generator/)*
+- [x] 5-6: *[Project - Art with Pixels](https://gui-alucard.github.io/Block05-Project-Art-with-Pixels/)*
+- [x] 5-7: *[Project - Task List](https://gui-alucard.github.io/Block05-Project-Task-List/)*
 - [ ] 5-7: *[(Bonus)Project - Guess the Color]()*
 - [ ] 5-7: *[(Bonus)Project - Mysterious Card]()*
 
@@ -52,27 +52,27 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] 6-3: *CSS Flexbox - Part 1*
 - [x] 6-4: *CSS Flexbox - Part 2*
 - [x] 6-5: *Responsive CSS - Mobile First*
-- [x] 6-6: *[Project - Facebook home](https://gui-alucard.github.io/Project_03/)*
+- [x] 6-6: *[Project - Facebook home](https://gui-alucard.github.io/Block06-Project-Facebook-home/)*
 ##### Block 7: JavaScript ES6 & Unit Tests
 - [x] 7-1: *JavaScript ES6 - let, const, arrow functions and template literals*
 - [x] 7-2: *JavaScript ES6 - Objects*
 - [x] 7-3: *JavaScript unit tests*
-- [x] 7-4: *[Project - JavaScript Unit Tests](https://github.com/Gui-Alucard/Project_04)*
+- [x] 7-4: *[Project - JavaScript Unit Tests](https://github.com/Gui-Alucard/Block07-Project-JavaScript-Unit-Tests)*
 ##### Block 8: JavaScript ES6
 - [x] 8-1: *JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort*
 - [x] 8-2: *JavaScript ES6 - Higher Order Functions - map and filter*
 - [x] 8-3: *JavaScript ES6 - Higher Order Functions - reduce*
 - [x] 8-4: *JavaScript ES6 - spread operator, rest parameter, destructuring and more*
-- [x] 8-5: *[Project - Zoo functions](https://github.com/Gui-Alucard/Project_Zoo_Functions)*
+- [x] 8-5: *[Project - Zoo functions](https://github.com/Gui-Alucard/Block08-Project-Zoo-functions)*
 ##### Block 9: Asynchronicity & Callbacks
 - [x] 9-2: *Asynchronous JavaScript and Callbacks*
 - [x] 9-3: *JavaScript Promises*
-- [x] 9-4: *[Project - Shopping Cart](https://gui-alucard.github.io/Project_Shop_cart/)*
+- [x] 9-4: *[Project - Shopping Cart](https://gui-alucard.github.io/Block09-Project_Shop_cart/)*
 ##### Block 10: Jest
 - [x] 10-1: *First steps at Jest*
 - [x] 10-1: *Jest - Asynchronous Tests*
 - [x] 10-2: *Jest - Simulating behaviors*
-- [x] 10-3: *[Project - Asynchronous Jest and Mocking](https://github.com/Gui-Alucard/Project_Mock_Assync)*
+- [x] 10-3: *[Project - Asynchronous Jest and Mocking](https://github.com/Gui-Alucard/Block10-Project_Mock_Assync)*
 ##### Block 11: Introduction - React
 - [x] 11-1: *Introduction - React*
 - [x] 11-1: *'Hello, world!' in React!*
