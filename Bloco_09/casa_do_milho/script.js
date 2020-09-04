@@ -64,10 +64,10 @@ const handleError = (errorMessage) => {
 }
 
 const handleRates = (rates) => {
-  const ratesKeys = Object.keys(rates);
+  const ratesKeys = Object.keys(rates); // Aqui é atribuido apenas as CHAVES!
 
   ratesKeys.forEach((key) => {
-    const value = rates[key];
+    const value = rates[key]; // retornaria apenas um valor senão fosse pelo forEach!
     renderRate(key, value);
   })
 }
