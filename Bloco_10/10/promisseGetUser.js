@@ -17,4 +17,4 @@ const getUserName = (userID) => {
   return findUserById(userID).then(user => user.name);
 }
 
-module.exports = {findUserById, getUserName}
+module.exports = { findUserById, getUserName };
