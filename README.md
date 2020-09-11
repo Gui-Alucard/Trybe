@@ -77,15 +77,15 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] 11-1: *Introduction - React*
 - [x] 11-1: *'Hello, world!' in React!*
 - [x] 11-2: *React Components*
-- [ ] 11-3: *[Project - Movie Cards Library]()*
+- [x] 11-3: *[Project - Movie Cards Library](https://gui-alucard.github.io/Block11-Project_Movie_Card/)*
 ##### Block 12: React
-- [ ] 12-1: *Components with status*
-- [ ] 12-2: *React events and forms*
+- [x] 12-1: *Components with status*
+- [x] 12-2: *React events and forms*
 - [ ] 12-3: *[Project - Movie Cards Library Stateful]()*
 ##### Block 13: React
-- [ ] 13-1: *Improving component reuse: props.children and PropTypes*
-- [ ] 13-2: *React component life cycle*
-- [ ] 13-3: *React Router*
+- [x] 13-1: *Improving component reuse: props.children and PropTypes*
+- [x] 13-2: *React component life cycle*
+- [x] 13-3: *React Router*
 - [ ] 13-4: *[Project - Movie Cards Library CRUD]()*
 ##### Block 14: Agile Methodologies
 - [ ] 14-1: *Agile Methodologies*
