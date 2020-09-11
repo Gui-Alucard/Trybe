@@ -1,13 +1,32 @@
-import React from 'react';
-// import Image from './image';
-import './App.css';
-import pokemons from './data';
-import PokeList from './PokeList';
+import React, { useState } from "react";
+import "./App.css";
+import Pokemon from "./Pokemon";
+import data from "./data";
 
-function App() {
+function App(props) {
+  const [filter, setFilter] = useState();
+  const [position, setPosition] = useState(0);
+  const [pokemons, setPokemons] = useState(data);
+
+  function nextPokemon(jump) {
+    let newPosition = 0;
+
+    if (position + jump < pokemons.length && position + jump >= 0)
+      newPosition = position + jump;
+    else if (position + jump < 0) newPosition = pokemons.length + jump;
+
+    setPosition(newPosition);
+  }
+
   return (
     <div className="App">
-        <PokeList pokemons={pokemons} />
+      <div className="pokedex">
+        <Pokemon pokemon={pokemons[position]} />
+      </div>
+      <div className="botao">
+        <input onClick={() => nextPokemon(-1)} type="button" className="previous" value="prev" /> {/*PREVIOUS*/}
+        <input onClick={() => nextPokemon(1)} type="button" className="next" value="next" /> {/*NEXT*/}
+      </div>
     </div>
   );
 }
