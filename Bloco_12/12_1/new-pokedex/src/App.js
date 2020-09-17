@@ -15,6 +15,7 @@ class App extends React.Component {
 
     this.handleClick = this.handleClick.bind(this)
     this.handleType = this.handleType.bind(this)
+    this.resetState = this.resetState.bind(this)
 
   }
 
@@ -22,10 +23,10 @@ class App extends React.Component {
     let newPosition = 0;
     const position = this.state.index
 
-    if (position + jump < pokemonList.length && position + jump >= 0)
+    if (position + jump < this.state.pokemonList.length && position + jump >= 0)
       newPosition = position + jump;
-    else if (position + jump < 0) newPosition = pokemonList.length + jump;
-
+    else if (position + jump < 0) newPosition = this.state.pokemonList.length + jump;
+    
     this.setState({index: newPosition})
   }
 
@@ -36,14 +37,19 @@ class App extends React.Component {
     this.setState({type: valorAnterior = e})
 
     const pokeList = pokemonList
-    let oldList = this.state.pokemonList
-    pokeList.filter(pokeObject => {
-      return pokeObject.Type === e ? oldList = [pokeObject] : undefined 
-      // Dessa forma, só me retorna o ultimo
-      // tem que ser um [ ] com todos os pokes daquele tipo => oldList = [oq receber aqui? todos os pokeObject?]
+    let newList = [];
+    pokeList.map(pokeObject => {
+      return pokeObject.Type === e ? newList.push(pokeObject) : undefined
     })
-    this.setState({pokemonList: oldList})
-    console.log({pokemonList: oldList})
+    this.setState({index: 0}) // reseta o state.index
+    this.setState({pokemonList: newList})
+    // console.log({pokemonList: newList.length})
+    // console.log({pokemonList: pokemonList.length})
+  }
+
+  resetState() {
+    this.setState({index: 0})
+    this.setState({pokemonList: pokemonList})
   }
 
   render() {
@@ -54,6 +60,7 @@ class App extends React.Component {
           <Pokedex 
             pokemonFromList={[lista[this.state.index]]} 
             handleType={this.handleType}
+            resetState={this.resetState}
           />
         </div>
         <input onClick={() => this.handleClick(-1)} type="button" value="Anterior"/>
