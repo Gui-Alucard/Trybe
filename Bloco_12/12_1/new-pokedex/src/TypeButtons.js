@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 class TypeButtons extends Component {
   render() {
-    const { handleType } = this.props;
+    const { handleType, resetState } = this.props;
     return (
       <div>
         <input type="button" value="Bug" onClick={handleType} />
@@ -21,6 +21,7 @@ class TypeButtons extends Component {
         <input type="button" value="Ice" onClick={handleType} />
         <input type="button" value="Ghost" onClick={handleType} />
         <input type="button" value="Dragon" onClick={handleType} />
+        <input type="button" value="All" onClick={resetState} />
       </div>
     )
   }

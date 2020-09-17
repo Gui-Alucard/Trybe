@@ -4,14 +4,14 @@ import TypeButton from './TypeButtons';
 
 class Pokedex extends Component {
   render() {
-    const { pokemonFromList, handleType } = this.props;
+    const { pokemonFromList, handleType, resetState } = this.props;
     return (
       <div>
         <section className="pokedex-list">
           {pokemonFromList.map(eachPoke => <PokemonCard pokemon={eachPoke} key={eachPoke.Name} />)}
         </section>
         <div>
-          <TypeButton handleType={handleType} />
+          <TypeButton handleType={handleType} resetState={resetState} />
         </div>
       </div>
     )
