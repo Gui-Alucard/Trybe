@@ -81,7 +81,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 ##### Block 12: React
 - [x] 12-1: *Components with status*
 - [x] 12-2: *React events and forms*
-- [ ] 12-3: *[Project - Movie Cards Library Stateful]()*
+- [x] 12-3: *[Project - Movie Cards Library Stateful](https://gui-alucard.github.io/Block12-Project_MovieCard_Stateful/)*
 ##### Block 13: React
 - [x] 13-1: *Improving component reuse: props.children and PropTypes*
 - [x] 13-2: *React component life cycle*

@@ -8,7 +8,7 @@ test('Testando com async/await', async () => {
 });
 
 test('Testando com async/await, testando o reject', async () => {
-  expect.assertions(1);
+  // expect.assertions(1);
   try {
     await getListAnimals('Lion');
   } catch (error) {
