@@ -1,6 +1,6 @@
 # Trybe
 
-This repository contains all learning activities developed by *[Guilherme Silva Oliveira![linkedIn](https://user-images.githubusercontent.com/64224044/92247653-e5267380-ee9d-11ea-995b-bbaede677424.png)](https://www.linkedin.com/in/guilhermesilva-oliveira/)* while studying at [Trybe](https://www.betrybe.com/) :rocket:
+This repository contains all learning activities developed by *[Guilherme Silva Oliveira![linkedIn](https://user-images.githubusercontent.com/64224044/92247653-e5267380-ee9d-11ea-995b-bbaede677424.png)](https://www.linkedin.com/in/guilhermesilva-oliveira/)* while studying at [TRYBE](https://www.betrybe.com/) :rocket:
 
 *"Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, at Trybe they only start paying when they get a good job."*
 
