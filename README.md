@@ -86,9 +86,9 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] 13-1: *Improving component reuse: props.children and PropTypes*
 - [x] 13-2: *React component life cycle*
 - [x] 13-3: *React Router*
-- [ ] 13-4: *[Project - Movie Cards Library CRUD]()*
+- [x] 13-4: *[Project - Movie Cards Library CRUD](https://gui-alucard.github.io/Block13-Project_MovieCard_CRUD/)*
 ##### Block 14: Agile Methodologies
-- [ ] 14-1: *Agile Methodologies*
+- [x] 14-1: *Agile Methodologies*
 - [ ] 14-2: *[Project - Frontend Online Store]()*
 ##### Block 15: React
 - [ ] 15-1: *Testing React with the React Testing Library*
