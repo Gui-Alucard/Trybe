@@ -1,0 +1,12 @@
+[submodule "exercise-pokedex-state"]
+	path = exercise-pokedex-state
+	url = ./Bloco_12/12_1/exercise-pokedex-state
+[submodule "exercise-pokedex-router"]
+	path = exercise-pokedex-router
+	url = ./Bloco_13/13_2/exercise-pokedex-router
+[submodule "exercise-router-fixation"]
+	path = exercise-router-fixation
+	url = ./Bloco_13/exercise-router-fixation
+[submodule "exercise-digimon-finders"]
+	path = exercise-digimon-finders
+	url = ./Bloco_15/exercise-digimon-finders
