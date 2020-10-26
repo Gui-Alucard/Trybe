@@ -78,31 +78,31 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] 11-1: *'Hello, world!' in React!*
 - [x] 11-2: *React Components*
 - [x] 11-3: *[Project - Movie Cards Library](https://gui-alucard.github.io/Block11-Project_Movie_Card/)*
-##### Block 12: React
+##### Block 12: React Components
 - [x] 12-1: *Components with status*
 - [x] 12-2: *React events and forms*
 - [x] 12-3: *[Project - Movie Cards Library Stateful](https://gui-alucard.github.io/Block12-Project_MovieCard_Stateful/)*
-##### Block 13: React
+##### Block 13: React Router
 - [x] 13-1: *Improving component reuse: props.children and PropTypes*
 - [x] 13-2: *React component life cycle*
 - [x] 13-3: *React Router*
 - [x] 13-4: *[Project - Movie Cards Library CRUD](https://gui-alucard.github.io/Block13-Project_MovieCard_CRUD/)*
 ##### Block 14: Agile Methodologies
 - [x] 14-1: *Agile Methodologies*
-- [ ] 14-2: *[Project - Frontend Online Store]()*
-##### Block 15: React
-- [ ] 15-1: *Testing React with the React Testing Library*
-- [ ] 15-2: *Testing React with the React Testing Library - Part 2*
-- [ ] 15-3: *[Project - React Tests]()*
-##### Block 16: React
-- [ ] 16-1: *Introduction to Redux*
-- [ ] 16-2: *React with Redux - part 1*
-- [ ] 16-3: *React with Redux - Practice*
-- [ ] 16-4: *React with Redux - part 2*
-- [ ] 16-4: *Synchronous tests with React-Redux*
-- [ ] 16-6: *[Project - Table with data filters]()*
-##### Block 17: React
-- [ ] 17-1: *[Project - Trivia Game]()*
+- [x] 14-2: *[Project - Frontend Online Store]()*
+##### Block 15: React Testing Library
+- [x] 15-1: *Testing React with the React Testing Library*
+- [x] 15-2: *Testing React with the React Testing Library - Part 2*
+- [x] 15-3: *[Project - React Tests]()*
+##### Block 16: Introduction to Redux
+- [x] 16-1: *Introduction to Redux*
+- [x] 16-2: *React with Redux - part 1*
+- [x] 16-3: *React with Redux - Practice*
+- [x] 16-4: *React with Redux - part 2*
+- [x] 16-4: *Synchronous tests with React-Redux*
+- [x] 16-6: *[Project - Table with data filters]()*
+##### Block 17: React & Redux
+- [x] 17-1: *[Project - Trivia Game]()*
 ##### Block 18: React & Redux
 - [ ] 18-1: *React Context API*
 - [ ] 18-2: *React Hooks - useState and useContext*
