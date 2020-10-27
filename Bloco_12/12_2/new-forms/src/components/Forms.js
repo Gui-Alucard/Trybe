@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import Inputs from './Inputs';
+import { connect } from 'react-redux';
+import { actionCreator } from '../actions';
+import Input from './Input';
 
 const brazilianStates = [
   'Acre (AC)',
@@ -32,19 +34,36 @@ const brazilianStates = [
 ];
 
 class Forms extends Component {
+  constructor() {
+    super();
+
+    this.state = {
+      name: '',
+      email: '',
+      cpf: '',
+      city: '',
+      street: '',
+      country: '',
+      residence: '',
+      resume: '',
+    }
+  }
 
   render() {
+    const { formResult } = this.props;
+    const { name, email, cpf, city, street, country, residence, resume } = this.state;
+    // console.log(formResult);
     return (
       <div className="field-container">
         <fieldset className="dados-pessoais">
-          <Inputs type="text" name="Nome" id="name" value="name" max="40" />
-          <Inputs type="text" name="Email" id="email" value="email" max="50" />
-          <Inputs type="text" name="CPF" id="cpf" value="cpf" max="11" />
-          <Inputs type="text" name="Endereço" id="address" value="address" max="200" />
-          <Inputs type="text" name="Cidade" id="city" value="city" max="28" />
+          <Input onChange={(e) => this.setState({name: e.target.value})} type="text" name="Nome" id="name" value="name" max="40" />
+          <Input onChange={(e) => this.setState({email: e.target.value})} type="text" name="Email" id="email" value="email" max="50" />
+          <Input onChange={(e) => this.setState({cpf: e.target.value})} type="text" name="CPF" id="cpf" value="cpf" max="11" />
+          <Input onChange={(e) => this.setState({street: e.target.value})} type="text" name="Endereço" id="address" value="address" max="200" />
+          <Input onChange={(e) => this.setState({city: e.target.value})} type="text" name="Cidade" id="city" value="city" max="28" />
           <br />
           {
-            <select>
+            <select onChange={(e) => this.setState({country: e.target.value})}>
               {brazilianStates.map((state) => (
                 <option key={state}>{state}</option>
                 ))}
@@ -54,23 +73,28 @@ class Forms extends Component {
           <div>
             <label htmlFor="apartamento">
               Apartamento
-              <input type="radio" name="residence" id="apartamento" required />
+              <input onClick={(e) => this.setState({ residence: e.target.value })} type="radio" name="residence" value="apartament" id="apartamento" required />
             </label>
             <label htmlFor="casa">
               Casa
-              <input type="radio" name="residence" id="casa" required />
+              <input onClick={(e) => this.setState({ residence: e.target.value })} type="radio" name="residence" value="house" id="casa" required />
             </label>
           </div>
         </fieldset>
         <fieldset className="experiencia">
           <label htmlFor="curriculo">
             Resumo do currículo
-            <textarea name="curriculo" id="curriculo" cols="30" rows="10" maxLength="1000" />
+            <textarea onChange={(e) => this.setState({resume: e.target.value})} name="curriculo" id="curriculo" cols="30" rows="10" maxLength="1000" />
           </label>
         </fieldset>
+        <button onClick={() => formResult({ name, email, cpf, city, street, country, residence, resume })} type="button">ENVIAR</button>
       </div>
     )
   }
 }
 
-export default Forms;
+const mapDispatchToProps = (dispatch) => ({
+  formResult: (forms) => dispatch(actionCreator(forms))
+});
+
+export default connect(null, mapDispatchToProps)(Forms);

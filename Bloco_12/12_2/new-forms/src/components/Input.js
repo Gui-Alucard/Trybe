@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 
-class Inputs extends Component {
+class Input extends Component {
   render() {
-    const { name, id, type, max } = this.props;
+    const { name, id, type, max, onChange } = this.props;
     return (
       <label htmlFor={id} value={name}>{name}: <br /> 
         <input 
@@ -10,6 +10,7 @@ class Inputs extends Component {
           name={name}
           id={id}
           maxLength={max}
+          onChange={onChange}
           required
         />
       </label>
@@ -17,4 +18,4 @@ class Inputs extends Component {
   }
 }
 
-export default Inputs;
+export default Input;
