@@ -15,7 +15,8 @@ class List extends React.Component {
   }
 }
 
-const mapStateToProps = state => ({
-  list: state.listReducer});
+const mapStateToProps = (state) => ({
+  list: state.listReducer
+});
 
 export default connect(mapStateToProps)(List);

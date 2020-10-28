@@ -89,20 +89,20 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] 13-4: *[Project - Movie Cards Library CRUD](https://gui-alucard.github.io/Block13-Project_MovieCard_CRUD/)*
 ##### Block 14: Agile Methodologies
 - [x] 14-1: *Agile Methodologies*
-- [x] 14-2: *[Project - Frontend Online Store]()*
+- [x] 14-2: *[Project - Frontend Online Store](https://gui-alucard.github.io/Block14-Project-Agile/)*
 ##### Block 15: React Testing Library
 - [x] 15-1: *Testing React with the React Testing Library*
 - [x] 15-2: *Testing React with the React Testing Library - Part 2*
-- [x] 15-3: *[Project - React Tests]()*
+- [x] 15-3: *[Project - React Tests](https://github.com/Gui-Alucard/Block15-Project-RTL)*
 ##### Block 16: Introduction to Redux
 - [x] 16-1: *Introduction to Redux*
 - [x] 16-2: *React with Redux - part 1*
 - [x] 16-3: *React with Redux - Practice*
 - [x] 16-4: *React with Redux - part 2*
 - [x] 16-4: *Synchronous tests with React-Redux*
-- [x] 16-6: *[Project - Table with data filters]()*
+- [ ] 16-6: *[Project - Table with data filters]()*
 ##### Block 17: React & Redux
-- [x] 17-1: *[Project - Trivia Game]()*
+- [ ] 17-1: *[Project - Trivia Game]()*
 ##### Block 18: React & Redux
 - [ ] 18-1: *React Context API*
 - [ ] 18-2: *React Hooks - useState and useContext*
