@@ -1,0 +1,16 @@
+{
+  "name": "grupo_10",
+  "version": "1.0.0",
+  "description": "Grupo 10 da pamonha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "grupo 10",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}

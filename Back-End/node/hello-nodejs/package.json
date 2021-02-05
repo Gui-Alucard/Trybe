@@ -1,0 +1,19 @@
+{
+  "name": "hello-nodejs",
+  "version": "1.0.0",
+  "description": "Primero pacote com nodejs",
+  "main": "entryPoint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node entryPoint.js",
+    "bhaskara": "node bhaskara.js",
+    "imc": "node imc.js",
+    "promise": "node imcPromise"
+  },
+  "author": "Gui-Alucard",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "readline-sync": "^1.4.10"
+  }
+}
