@@ -1,12 +1,3 @@
-import { type } from "os";
-
-var vel = 50.5
-console.log(`A velocidade co seu carro é ${vel}Km/h.`)
-if (vel > 60) {
-  console.log(`Você ultrapassou a velocidade permitida. MULTADO!`)
-}
-console.log(`Dirija sempre com o sinto de segurança!`)
-
 function estimate_pi(n) {
   let numInCirc = 0;
   let numInSquare = 0;
