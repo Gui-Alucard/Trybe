@@ -233,103 +233,103 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <summary>​See more about Back-end Development module</summary>
   <!-- BLOCK 20 -->
   <details>
-  <summary>Block 20: Introduction - Relational Databases</summary>
+  <summary>Block 20: Introduction - Relational Databases</summary> :heavy_check_mark:
 
-  > - [X] 20-1: *Introduction - Back-end*
-  > - [X] 20-1: *Introduction - Relational databases*
-  > - [X] 20-1: *SQL database*
-  > - [X] 20-2: *Finding data in a database*
-  > - [X] 20-3: *Filtering data specifically*
-  > - [X] 20-4: *Manipulating tables*
-  > - [X] 20-5: *Project - All For One*
+  > - [X] 20-1: *Introduction - Back-end* :heavy_check_mark:
+  > - [X] 20-1: *Introduction - Relational databases* :heavy_check_mark:
+  > - [X] 20-1: *SQL database* :heavy_check_mark:
+  > - [X] 20-2: *Finding data in a database* :heavy_check_mark:
+  > - [X] 20-3: *Filtering data specifically* :heavy_check_mark:
+  > - [X] 20-4: *Manipulating tables* :heavy_check_mark:
+  > - [X] 20-5: *Project - All For One* :heavy_check_mark:
 
   </details>
 
   <!-- BLOCK 21 -->
   <details>
-  <summary>Block 21: Relational Databases</summary>
+  <summary>Block 21: Relational Databases</summary> :heavy_check_mark:
 
-  > - [X] 21-1: *Most used functions in SQL
-  > - [X] 21-2: *Uncomplicating JOINs and UNIONs*
-  > - [X] 21-3: *Stored Routines & Subqueries*
-  > - [X] 21-4: *Project - Vocabulary Booster*
+  > - [X] 21-1: *Most used functions in SQL* :heavy_check_mark:
+  > - [X] 21-2: *Uncomplicating JOINs and UNIONs* :heavy_check_mark:
+  > - [X] 21-3: *Stored Routines & Subqueries* :heavy_check_mark:
+  > - [X] 21-4: *Project - Vocabulary Booster* :heavy_check_mark:
 
   </details>
 
   <!-- BLOCK 22 -->
   <details>
-  <summary>Block 22: Relational Databases</summary>
+  <summary>Block 22: Relational Databases</summary> :heavy_check_mark:
 
-  > - [X] 22-1: *Transforming ideas into a database model*
-  > - [X] 22-2: *Normalization, Normal Shapes and Dumps*
-  > - [X] 22-3: *Transforming ideas into a database model - Part 2*
-  > - [X] 21-4: *Project - One For All*
+  > - [X] 22-1: *Transforming ideas into a database model* :heavy_check_mark:
+  > - [X] 22-2: *Normalization, Normal Shapes and Dumps* :heavy_check_mark:
+  > - [X] 22-3: *Transforming ideas into a database model - Part 2* :heavy_check_mark:
+  > - [X] 21-4: *Project - One For All* :heavy_check_mark:
 
   </details>
 
   <!-- BLOCK 23 -->
   <details>
-  <summary>Block 23: Introduction - NoSQL</summary>
+  <summary>Block 23: Introduction - NoSQL</summary> :heavy_check_mark:
 
-  > - [x] 23-1: *Introduction - NoSQL*
-  > - [x] 23-2: *MongoDB - Introduction*
-  > - [x] 23-3: *Filter Operators*
-  > - [x] 23-4: *Project - Data Flights*
+  > - [x] 23-1: *Introduction - NoSQL* :heavy_check_mark:
+  > - [x] 23-2: *MongoDB - Introduction* :heavy_check_mark:
+  > - [x] 23-3: *Filter Operators* :heavy_check_mark:
+  > - [x] 23-4: *Project - Data Flights* :heavy_check_mark:
 
   </details>
 
   <!-- BLOCK 24 -->
   <details>
-  <summary>Block 24: Updates</summary>
+  <summary>Block 24: Updates</summary> :heavy_check_mark:
 
-  > - [x] 24-1: *Simple Updates*
-  > - [x] 24-2: *Complex Updates - Arrays*
-  > - [x] 24-3: *Reads & Searchs - Arrays*
-  > - [x] 24-4: *Project - Commerce*
+  > - [x] 24-1: *Simple Updates* :heavy_check_mark:
+  > - [x] 24-2: *Complex Updates - Arrays* :heavy_check_mark:
+  > - [x] 24-3: *Reads & Searchs - Arrays* :heavy_check_mark:
+  > - [x] 24-4: *Project - Commerce* :heavy_check_mark:
 
   </details>
 
   <!-- BLOCK 25 -->
   <details>
-  <summary>Block 25: Aggregation Framework</summary>
+  <summary>Block 25: Aggregation Framework</summary> :heavy_check_mark:
 
-  > - [x] 25-1: *Aggregation Framework - Part 1*
-  > - [x] 25-2: *Aggregation Framework - Part 2*
-  > - [x] 24-3: *Project - Aggregations*
+  > - [x] 25-1: *Aggregation Framework - Part 1* :heavy_check_mark:
+  > - [x] 25-2: *Aggregation Framework - Part 2* :heavy_check_mark:
+  > - [x] 24-3: *Project - Aggregations* :heavy_check_mark:
 
   </details>
 
   <!-- BLOCK 26 -->
   <details>
-  <summary>Block 26: NodeJS</summary>
+  <summary>Block 26: NodeJS</summary> :heavy_check_mark:
 
-  > - [x] 26-1: *What It Is - NodeJS*
-  > - [x] 26-1: *NodeJS - Introduction*
-  > - [x] 26-2: *NodeJS - Asynchronous Flow*
-  > - [x] 26-3: *NodeJS - Architecture*
-  > - [x] 26-4: *Express: HTTP with Node.js*
-  > - [x] 26-5: *Practicing Express*
-  > - [x] 26-6: *Software Architecture - Introduction to MVC*
-  > - [x] 26-7: *Project - Crush Manager*
+  > - [x] 26-1: *What It Is - NodeJS* :heavy_check_mark:
+  > - [x] 26-1: *NodeJS - Introduction* :heavy_check_mark:
+  > - [x] 26-2: *NodeJS - Asynchronous Flow* :heavy_check_mark:
+  > - [x] 26-3: *NodeJS - Architecture* :heavy_check_mark:
+  > - [x] 26-4: *Express: HTTP with Node.js* :heavy_check_mark:
+  > - [x] 26-5: *Practicing Express* :heavy_check_mark:
+  > - [x] 26-6: *Software Architecture - Introduction to MVC* :heavy_check_mark:
+  > - [x] 26-7: *Project - Crush Manager* :heavy_check_mark:
 
   </details>
 
   <!-- BLOCK 27 -->
   <details>
-  <summary>Block 27: Software Architecture</summary>
+  <summary>Block 27: Software Architecture</summary> :heavy_check_mark:
 
-  > - [x] 27-1: *Software Architecture - Model Layer*
-  > - [x] 27-2: *Software Architecture - Controller & Service Layer*
-  > - [x] 27-3: *Web Architecture - Rest & Restful*
+  > - [x] 27-1: *Software Architecture - Model Layer* :heavy_check_mark:
+  > - [x] 27-2: *Software Architecture - Controller & Service Layer* :heavy_check_mark:
+  > - [x] 27-3: *Web Architecture - Rest & Restful* :heavy_check_mark:
   > - [ ] 27-4: *Project - Store Manager*
 
   </details>
 
   <!-- BLOCK 28 -->
   <details>
-  <summary>Block 28: Node - JSON Web Token</summary>
+  <summary>Block 28: Node - JSON Web Token</summary> :pushpin:
 
-  > - [ ] 28-1: *NodeJS - JWT - (JSON Web Token)*
+  > - [ ] 28-1: *NodeJS - JWT - (JSON Web Token)* :pushpin:
   > - [ ] 28-2: *NodeJS - Upload files with Multer*
   > - [ ] 28-3: *Project - Cookmaster version 2 ​*
 
