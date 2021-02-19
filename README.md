@@ -12,7 +12,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <summary>See more about Introduction Web Development module</summary><br>
   <!-- BLOCK 1 -->
   <details>
-  <summary>Block 1: Unix, Bash and Shell Script</summary><br>
+  <summary>Block 1: Unix, Bash and Shell Script :heavy_check_mark:</summary><br>
 
   > - [x] 1-3: *Setup*
   > - [x] 1-3: *Fundamentals of Web Development*
@@ -24,7 +24,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   </details>
   <!-- BLOCK 2 -->
   <details>
-  <summary>Block 2: Git, GitHub and Internet</summary><br>
+  <summary>Block 2: Git, GitHub and Internet :heavy_check_mark:</summary><br>
 
   > - [x] 2-1: *Git & GitHub - What it is and what it is for*
   > - [x] 2-2: *Git & GitHub - Understanding the commands*
@@ -33,7 +33,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   </details>
   <!-- BLOCK 3 -->
   <details>
-  <summary>Block 3: Introduction to HTML and CSS</summary><br>
+  <summary>Block 3: Introduction to HTML and CSS :heavy_check_mark:</summary><br>
 
   > - [x] 3-1: *Introduction - HTML & CSS*
   > - [x] 3-1: *HTML & CSS - Page structures*
@@ -45,7 +45,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   </details>
   <!-- BLOCK 4 -->
   <details>
-  <summary>Block 4: Introduction - JavaScript</summary><br>
+  <summary>Block 4: Introduction - JavaScript :heavy_check_mark:</summary><br>
 
   > - [x] 4-1: *Introduction - JavaScript*4-1: *JavaScript - Getting Started*
   > - [x] 4-2: *JavaScript - Array and For Loop*
@@ -56,7 +56,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 5 -->
   <details>
-  <summary>Block 5: Introduction - JavaScript - Projects</summary><br>
+  <summary>Block 5: Introduction - JavaScript - Projects :heavy_check_mark:</summary><br>
 
   > - [x] 5-1: *JavaScript - DOM and selectors*
   > - [x] 5-2: *JavaScript - Working with elements*
@@ -73,7 +73,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 6 -->
   <details>
-  <summary>Block 6: Introduction - Front-end</summary><br>
+  <summary>Block 6: Introduction - Front-end :heavy_check_mark:</summary><br>
 
   > - [x] 6-1: *Introduction - Front-end*
   > - [x] 6-1: *HTML & CSS - Forms*
@@ -88,7 +88,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 7 -->
   <details>
-  <summary>Block 7: JavaScript ES6 & Unit Tests</summary><br>
+  <summary>Block 7: JavaScript ES6 & Unit Tests :heavy_check_mark:</summary><br>
 
   > - [x] 7-1: *JavaScript ES6 - let, const, arrow functions and template literals*
   > - [x] 7-2: *JavaScript ES6 - Objects*
@@ -99,7 +99,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 8 -->
   <details>
-  <summary>Block 8: JavaScript ES6</summary>
+  <summary>Block 8: JavaScript ES6 :heavy_check_mark:</summary>
 
   > - [x] 8-1: *JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort*
   > - [x] 8-2: *JavaScript ES6 - Higher Order Functions - map and filter*
@@ -111,7 +111,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 9 -->
   <details>
-  <summary>Block 9: Asynchronicity & Callbacks</summary>
+  <summary>Block 9: Asynchronicity & Callbacks :heavy_check_mark:</summary>
 
   > - [x] 9-1: *Asynchronous JavaScript and Callbacks*
   > - [x] 9-2: *JavaScript Promises*
@@ -121,7 +121,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 10 -->
   <details>
-  <summary>Block 10: Jest</summary>
+  <summary>Block 10: Jest :heavy_check_mark:</summary>
 
   > - [x] 10-1: *First steps at Jest*
   > - [x] 10-2: *Jest - Asynchronous Tests*
@@ -137,7 +137,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <summary>​See more about Front-end Development module</summary><br>
   <!-- BLOCK 11 -->
   <details>
-  <summary>Block 11: Introduction - React</summary>
+  <summary>Block 11: Introduction - React :heavy_check_mark:</summary>
 
   > - [x] 11-1: *Introduction - React*
   > - [x] 11-1: *'Hello, world!' in React!*
@@ -148,7 +148,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 12 -->
   <details>
-  <summary>Block 12: React</summary>
+  <summary>Block 12: React :heavy_check_mark:</summary>
 
   > - [x] 12-1: *Components with status and events*
   > - [x] 12-2: *React  forms*
@@ -158,7 +158,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 13 -->
   <details>
-  <summary>Block 13: React</summary>
+  <summary>Block 13: React :heavy_check_mark:</summary>
 
   > - [x] 13-1: *Components life cycle*
   > - [x] 13-2: *React Router*
@@ -168,7 +168,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 14 -->
   <details>
-  <summary>Block 14: Agile Methodologies</summary>
+  <summary>Block 14: Agile Methodologies :heavy_check_mark:</summary>
 
   > - [x] 14-1: *Agile Methodologies*
   > - [x] *[Project - Frontend Online Store](https://gui-alucard.github.io/Block14-Project-Agile/)*
@@ -177,7 +177,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 15 -->
   <details>
-  <summary>Block 15: Automated Tests with React Testing Library</summary>
+  <summary>Block 15: Automated Tests with React Testing Library :heavy_check_mark:</summary>
 
   > - [x] 15-1: *RTL - First steps*
   > - [x] 15-2: *RTL - Mocks and Inputs*
@@ -188,7 +188,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 16 -->
   <details>
-  <summary>Block 16: State Management with Redux</summary>
+  <summary>Block 16: State Management with Redux :heavy_check_mark:</summary>
 
   > - [X] 16-1: *Introduction to Redux*
   > - [X] 16-2: *React with Redux - Part 1*
@@ -201,7 +201,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 17 -->
   <details>
-  <summary>Block 17: Project Trivia Game</summary>
+  <summary>Block 17: Project Trivia Game :heavy_check_mark:</summary>
 
   > - [x] *[Project - Trivia Game - UPLOADING]()*
 
@@ -209,7 +209,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 18 -->
   <details>
-  <summary>Block 18: Context API and React Hooks</summary>
+  <summary>Block 18: Context API and React Hooks :heavy_check_mark:</summary>
 
   > - [X] 18-1: *React Context API*
   > - [X] 18-2: *React Hooks - useState and useContext*
@@ -220,7 +220,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 19 -->
   <details>
-  <summary>Block 19: Final Front-end Project</summary>
+  <summary>Block 19: Final Front-end Project :heavy_check_mark:</summary>
 
   > - [x] *[Project - Recipe App](https://gui-alucard.github.io/app-receitas/)*
 
@@ -233,103 +233,103 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <summary>​See more about Back-end Development module</summary>
   <!-- BLOCK 20 -->
   <details>
-  <summary>Block 20: Introduction - Relational Databases</summary> :heavy_check_mark:
+  <summary>Block 20: Introduction - Relational Databases :heavy_check_mark:</summary>
 
-  > - [X] 20-1: *Introduction - Back-end* :heavy_check_mark:
-  > - [X] 20-1: *Introduction - Relational databases* :heavy_check_mark:
-  > - [X] 20-1: *SQL database* :heavy_check_mark:
-  > - [X] 20-2: *Finding data in a database* :heavy_check_mark:
-  > - [X] 20-3: *Filtering data specifically* :heavy_check_mark:
-  > - [X] 20-4: *Manipulating tables* :heavy_check_mark:
-  > - [X] 20-5: *Project - All For One* :heavy_check_mark:
+  > - [X] 20-1: *Introduction - Back-end*
+  > - [X] 20-1: *Introduction - Relational databases*
+  > - [X] 20-1: *SQL database*
+  > - [X] 20-2: *Finding data in a database*
+  > - [X] 20-3: *Filtering data specifically*
+  > - [X] 20-4: *Manipulating tables*
+  > - [X] 20-5: *Project - All For One*
 
   </details>
 
   <!-- BLOCK 21 -->
   <details>
-  <summary>Block 21: Relational Databases</summary> :heavy_check_mark:
+  <summary>Block 21: Relational Databases :heavy_check_mark:</summary>
 
-  > - [X] 21-1: *Most used functions in SQL* :heavy_check_mark:
-  > - [X] 21-2: *Uncomplicating JOINs and UNIONs* :heavy_check_mark:
-  > - [X] 21-3: *Stored Routines & Subqueries* :heavy_check_mark:
-  > - [X] 21-4: *Project - Vocabulary Booster* :heavy_check_mark:
+  > - [X] 21-1: *Most used functions in SQL*
+  > - [X] 21-2: *Uncomplicating JOINs and UNIONs*
+  > - [X] 21-3: *Stored Routines & Subqueries*
+  > - [X] 21-4: *Project - Vocabulary Booster*
 
   </details>
 
   <!-- BLOCK 22 -->
   <details>
-  <summary>Block 22: Relational Databases</summary> :heavy_check_mark:
+  <summary>Block 22: Relational Databases :heavy_check_mark:</summary>
 
-  > - [X] 22-1: *Transforming ideas into a database model* :heavy_check_mark:
-  > - [X] 22-2: *Normalization, Normal Shapes and Dumps* :heavy_check_mark:
-  > - [X] 22-3: *Transforming ideas into a database model - Part 2* :heavy_check_mark:
-  > - [X] 21-4: *Project - One For All* :heavy_check_mark:
+  > - [X] 22-1: *Transforming ideas into a database model*
+  > - [X] 22-2: *Normalization, Normal Shapes and Dumps*
+  > - [X] 22-3: *Transforming ideas into a database model - Part 2*
+  > - [X] 21-4: *Project - One For All*
 
   </details>
 
   <!-- BLOCK 23 -->
   <details>
-  <summary>Block 23: Introduction - NoSQL</summary> :heavy_check_mark:
+  <summary>Block 23: Introduction - NoSQL :heavy_check_mark:</summary>
 
-  > - [x] 23-1: *Introduction - NoSQL* :heavy_check_mark:
-  > - [x] 23-2: *MongoDB - Introduction* :heavy_check_mark:
-  > - [x] 23-3: *Filter Operators* :heavy_check_mark:
-  > - [x] 23-4: *Project - Data Flights* :heavy_check_mark:
+  > - [x] 23-1: *Introduction - NoSQL*
+  > - [x] 23-2: *MongoDB - Introduction*
+  > - [x] 23-3: *Filter Operators*
+  > - [x] 23-4: *Project - Data Flights*
 
   </details>
 
   <!-- BLOCK 24 -->
   <details>
-  <summary>Block 24: Updates</summary> :heavy_check_mark:
+  <summary>Block 24: Updates :heavy_check_mark:</summary>
 
-  > - [x] 24-1: *Simple Updates* :heavy_check_mark:
-  > - [x] 24-2: *Complex Updates - Arrays* :heavy_check_mark:
-  > - [x] 24-3: *Reads & Searchs - Arrays* :heavy_check_mark:
-  > - [x] 24-4: *Project - Commerce* :heavy_check_mark:
+  > - [x] 24-1: *Simple Updates*
+  > - [x] 24-2: *Complex Updates - Arrays*
+  > - [x] 24-3: *Reads & Searchs - Arrays*
+  > - [x] 24-4: *Project - Commerce*
 
   </details>
 
   <!-- BLOCK 25 -->
   <details>
-  <summary>Block 25: Aggregation Framework</summary> :heavy_check_mark:
+  <summary>Block 25: Aggregation Framework :heavy_check_mark:</summary>
 
-  > - [x] 25-1: *Aggregation Framework - Part 1* :heavy_check_mark:
-  > - [x] 25-2: *Aggregation Framework - Part 2* :heavy_check_mark:
-  > - [x] 24-3: *Project - Aggregations* :heavy_check_mark:
+  > - [x] 25-1: *Aggregation Framework - Part 1*
+  > - [x] 25-2: *Aggregation Framework - Part 2*
+  > - [x] 24-3: *Project - Aggregations*
 
   </details>
 
   <!-- BLOCK 26 -->
   <details>
-  <summary>Block 26: NodeJS</summary> :heavy_check_mark:
+  <summary>Block 26: NodeJS :heavy_check_mark:</summary>
 
-  > - [x] 26-1: *What It Is - NodeJS* :heavy_check_mark:
-  > - [x] 26-1: *NodeJS - Introduction* :heavy_check_mark:
-  > - [x] 26-2: *NodeJS - Asynchronous Flow* :heavy_check_mark:
-  > - [x] 26-3: *NodeJS - Architecture* :heavy_check_mark:
-  > - [x] 26-4: *Express: HTTP with Node.js* :heavy_check_mark:
-  > - [x] 26-5: *Practicing Express* :heavy_check_mark:
-  > - [x] 26-6: *Software Architecture - Introduction to MVC* :heavy_check_mark:
-  > - [x] 26-7: *Project - Crush Manager* :heavy_check_mark:
+  > - [x] 26-1: *What It Is - NodeJS*
+  > - [x] 26-1: *NodeJS - Introduction*
+  > - [x] 26-2: *NodeJS - Asynchronous Flow*
+  > - [x] 26-3: *NodeJS - Architecture*
+  > - [x] 26-4: *Express: HTTP with Node.js*
+  > - [x] 26-5: *Practicing Express*
+  > - [x] 26-6: *Software Architecture - Introduction to MVC*
+  > - [x] 26-7: *Project - Crush Manager*
 
   </details>
 
   <!-- BLOCK 27 -->
   <details>
-  <summary>Block 27: Software Architecture</summary> :heavy_check_mark:
+  <summary>Block 27: Software Architecture :heavy_check_mark:</summary>
 
-  > - [x] 27-1: *Software Architecture - Model Layer* :heavy_check_mark:
-  > - [x] 27-2: *Software Architecture - Controller & Service Layer* :heavy_check_mark:
-  > - [x] 27-3: *Web Architecture - Rest & Restful* :heavy_check_mark:
+  > - [x] 27-1: *Software Architecture - Model Layer*
+  > - [x] 27-2: *Software Architecture - Controller & Service Layer*
+  > - [x] 27-3: *Web Architecture - Rest & Restful*
   > - [ ] 27-4: *Project - Store Manager*
 
   </details>
 
   <!-- BLOCK 28 -->
   <details>
-  <summary>Block 28: Node - JSON Web Token</summary> :pushpin:
+  <summary>Block 28: Node - JSON Web Token :pushpin:</summary>
 
-  > - [ ] 28-1: *NodeJS - JWT - (JSON Web Token)* :pushpin:
+  > - [ ] 28-1: *NodeJS - JWT - (JSON Web Token)*
   > - [ ] 28-2: *NodeJS - Upload files with Multer*
   > - [ ] 28-3: *Project - Cookmaster version 2 ​*
 
