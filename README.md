@@ -1,4 +1,4 @@
-# TRYBE :rocket: - My jouney to become a full-stack dev
+# TRYBE :rocket: - My journey to become a full-stack dev
 
 This repository contains all learning activities developed by *[Guilherme Silva Oliveira![linkedIn](https://user-images.githubusercontent.com/64224044/92247653-e5267380-ee9d-11ea-995b-bbaede677424.png)](https://www.linkedin.com/in/guilhermesilva-oliveira/)*  while studying at [TRYBE](https://www.betrybe.com/) :rocket:
 
