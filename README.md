@@ -228,7 +228,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 ​</details>
 
 <!-- MODULO 3 - BACK-END -->
-## Back-end Development :pushpin:
+## Back-end Development :heavy_check_mark:
 <details>
   <summary>​See more about Back-end Development module</summary>
   <!-- BLOCK 20 -->
@@ -301,159 +301,160 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 26 -->
   <details>
-  <summary>Block 26: NodeJS :heavy_check_mark:</summary>
+  <summary>Block 26: NodeJS Introduction :heavy_check_mark:</summary>
 
   > - [x] 26-1: *What It Is - NodeJS*
   > - [x] 26-1: *NodeJS - Introduction*
   > - [x] 26-2: *NodeJS - Asynchronous Flow*
-  > - [x] 26-3: *NodeJS - Architecture*
+  > - [x] 26-3: *NodeJS - Tests*
   > - [x] 26-4: *Express: HTTP with Node.js*
   > - [x] 26-5: *Practicing Express*
-  > - [x] 26-6: *Software Architecture - Introduction to MVC*
-  > - [x] 26-7: *Project - Crush Manager*
+  > - [x] 26-6: *Project - Crush Manager*
 
   </details>
 
   <!-- BLOCK 27 -->
   <details>
-  <summary>Block 27: Software Architecture :heavy_check_mark:</summary>
+  <summary>Block 27: NodeJS Software Architecture :heavy_check_mark:</summary>
 
+  > - [x] 27-1: *Software Architecture - Introduction*
   > - [x] 27-1: *Software Architecture - Model Layer*
   > - [x] 27-2: *Software Architecture - Controller & Service Layer*
   > - [x] 27-3: *Web Architecture - Rest & Restful*
-  > - [ ] 27-4: *Project - Store Manager*
+  > - [x] 27-4: *Software Architecture - Layers Tests*
+  > - [x] 27-5: *Project - Store Manager*
 
   </details>
 
   <!-- BLOCK 28 -->
   <details>
-  <summary>Block 28: Node - JSON Web Token :pushpin:</summary>
+  <summary>Block 28: Node - JSON Web Token :heavy_check_mark:</summary>
 
-  > - [ ] 28-1: *NodeJS - JWT - (JSON Web Token)*
-  > - [ ] 28-2: *NodeJS - Upload files with Multer*
-  > - [ ] 28-3: *Project - Cookmaster version 2 ​*
+  > - [x] 28-1: *NodeJS - JWT - (JSON Web Token)*
+  > - [x] 28-2: *NodeJS - Upload files with Multer*
+  > - [x] 28-3: *Project - Cookmaster version 2 ​*
 
   </details>
 
   <!-- BLOCK 29 -->
   <details>
-  <summary>Block 29: Introduction - Deploy</summary>
+  <summary>Block 29: Introduction - Deploy :heavy_check_mark:</summary>
 
-  > - [ ] 29-1: *Introduction - Deploy*
-  > - [ ] 29-1: *Infrastructure - Deploy with Heroku*
-  > - [ ] 29-2: *Deploy - Process Managers*
-  > - [ ] 29-3: *Project - Stranger Things*
+  > - [x] 29-1: *Introduction - Deploy*
+  > - [x] 29-1: *Infrastructure - Deploy with Heroku*
+  > - [x] 29-2: *Deploy - Process Managers*
+  > - [x] 29-3: *Project - Stranger Things*
 
   </details>
 
   <!-- BLOCK 30 -->
   <details>
-  <summary>Block 30: Project - Trybeer</summary>
+  <summary>Block 30: Project - Trybeer 1.0 :heavy_check_mark:</summary>
 
-    > - [ ] 30-1: *Project - Trybeer*
+    > - [x] 30-1: *Project - Trybeer*
 
   </details>
 
   <!-- BLOCK 31 -->
   <details>
-  <summary>Block 31: Architecture and Tests</summary>
+  <summary>Block 31: Architecture SOLID & ORM :heavy_check_mark:</summary>
 
-  > - [ ] 31-1: *Architecture - SOLID Principles*
-  > - [ ] 31-2: *ORM - Interface between application and database*
-  > - [ ] 31-3: *Software Architecture - DDD*
-  > - [ ] 31-4: *Good practices writing tests*
-  > - [ ] 31-5: *Project - Blogs API*
+  > - [x] 31-1: *Architecture - SOLID Principles*
+  > - [x] 31-2: *ORM - Interface between application and database*
+  > - [x] 31-3: *Software Architecture - DDD*
+  > - [x] 31-4: *Good practices writing tests*
+  > - [x] 31-5: *Project - Blogs API*
 
   </details>
 
   <!-- BLOCK 32 -->
   <details>
-  <summary>Block 32: Sockets</summary>
+  <summary>Block 32: Sockets :heavy_check_mark:</summary>
 
-  > - [ ] 32-1: *Sockets - TCP/UDP & NET*
-  > - [ ] 32-2: *Sockets - Socket.io*
-  > - [ ] 32-3: *Project - Webchat*
+  > - [x] 32-1: *Sockets - TCP/UDP & NET*
+  > - [x] 32-2: *Sockets - Socket.io*
+  > - [x] 32-3: *Project - Webchat*
 
   </details>
 
   <!-- BLOCK 33 -->
   <details>
-  <summary>Block 33: Project - Trybeer v2</summary>
+  <summary>Block 33: Project - Trybeer 2.0 :heavy_check_mark:</summary>
 
-  > - [ ] 33-1: *Project - Trybeer v2*
+  > - [x] 33-1: *Project - Trybeer v2*
 
   </details>
 </details>
 
 <!-- MODULO 4 - COMPUTER SCIENCE -->
-## ​Computer Science
+## ​Computer Science :heavy_check_mark:
 <details>
   <summary>See more about ​Computer Science module</summary>
   <!-- BLOCK 34 -->
   <details>
-  <summary>Block 34: Introduction - Computer Science</summary>
+  <summary>Block 34: Introduction - Computer Science :heavy_check_mark:</summary>
 
-  > - [ ] 34-1: *Introduction - Computer Science*
-  > - [ ] 34-2: *Computers Architecture*
-  > - [ ] 34-3: *Computers networks, tools and security*
-  > - [ ] 34-4: *Project - Exploring protocols*
+  > - [x] 34-1: *Introduction - Computer Science*
+  > - [x] 34-2: *Computers Architecture*
+  > - [x] 34-3: *Computers networks, tools and security*
+  > - [x] 34-4: *Project - Exploring protocols*
 
   </details>
 
   <!-- BLOCK 35 -->
   <details>
-  <summary>Block 35: Python</summary>
+  <summary>Block 35: Python :heavy_check_mark:</summary>
 
-  > - [ ] 35-1: *Learning Python*
-  > - [ ] 35-2: *Tests and Exceptions*
-  > - [ ] 35-3: *Data Input and Output*
-  > - [ ] 35-4: *Data Scraping*
-  > - [ ] 35-5: *Project - Tech news*
+  > - [x] 35-1: *Learning Python*
+  > - [x] 35-2: *Tests and Exceptions*
+  > - [x] 35-3: *Data Input and Output*
+  > - [x] 35-4: *Data Scraping*
+  > - [x] 35-5: *Project - Tech news*
 
   </details>
 
   <!-- BLOCK 36 -->
   <details>
-  <summary>Block 36: Object Oriented Programming</summary>
+  <summary>Block 36: Object Oriented Programming :heavy_check_mark:</summary>
 
-  > - [ ] 36-1: *Introduction to object oriented programming*
-  > - [ ] 36-2: *Object oriented programming in practice*
-  > - [ ] 36-3: *Project patterns*
-  > - [ ] 36-4: *Project - Stock Reports*
+  > - [x] 36-1: *Introduction to object oriented programming*
+  > - [x] 36-2: *Object oriented programming in practice*
+  > - [x] 36-3: *Project patterns*
+  > - [x] 36-4: *Project - Stock Reports*
 
   </details>
 
   <!-- BLOCK 37 -->
   <details>
-  <summary>Block 37: Data Structure I</summary>
+  <summary>Block 37: Data Structure I :heavy_check_mark:</summary>
 
-  > - [ ] 37-1: *Data Structure I - Arrays*
-  > - [ ] 37-2: *Data Structure I - Algorithms Complexity*
-  > - [ ] 37-3: *Recursion and Strategies to solve problems*
-  > - [ ] 37-4: *Sorting and Searching Algorithms*
-  > - [ ] 37-5: *Project - Algorithms*
+  > - [x] 37-1: *Data Structure I - Arrays*
+  > - [x] 37-2: *Data Structure I - Algorithms Complexity*
+  > - [x] 37-3: *Recursion and Strategies to solve problems*
+  > - [x] 37-4: *Sorting and Searching Algorithms*
+  > - [x] 37-5: *Project - Algorithms*
 
   </details>
 
   <!-- BLOCK 38 -->
   <details>
-  <summary>Block 38: Data Structure II</summary>
+  <summary>Block 38: Data Structure II :heavy_check_mark:</summary>
 
-  > - [ ] 38-1: *Data Structure II - Hash maps & Dict*
-  > - [ ] 38-2: *Data Structure II - Set*
-  > - [ ] 38-3: *Project - Restaurant Orders*
+  > - [x] 38-1: *Data Structure II - Hash maps & Dict*
+  > - [x] 38-2: *Data Structure II - Set*
+  > - [x] 38-3: *Project - Restaurant Orders*
 
   </details>
 
   <!-- BLOCK 39 -->
   <details>
-  <summary>Block 39: Data Structure III</summary>
+  <summary>Block 39: Data Structure III :heavy_check_mark:</summary>
 
-  > - [ ] 39-1: *Data Structure III - Stacks*
-  > - [ ] 39-2: *Data Structure III - Deque*
-  > - [ ] 39-3: *Data Structure III - Node and Connected Lists*
-  > - [ ] 39-4: *Data Structure III - Doubly Connected Lists*
-  > - [ ] 39-5: *Project - TING - Trybe Is Not Google*
+  > - [x] 39-1: *Data Structure III - Stacks*
+  > - [x] 39-2: *Data Structure III - Deque*
+  > - [x] 39-3: *Data Structure III - Node and Connected Lists*
+  > - [x] 39-4: *Data Structure III - Doubly Connected Lists*
+  > - [x] 39-5: *Project - TING - Trybe Is Not Google*
 
   </details>
 </details>
