@@ -1,5 +1,7 @@
 # TRYBE :rocket: - My journey to become a full-stack dev
 
+### Finished in 2018
+
 This repository contains all learning activities developed by *[Guilherme Silva Oliveira![linkedIn](https://user-images.githubusercontent.com/64224044/92247653-e5267380-ee9d-11ea-995b-bbaede677424.png)](https://www.linkedin.com/in/guilhermesilva-oliveira/)*  while studying at [TRYBE](https://www.betrybe.com/) :rocket:
 
 *Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, at Trybe they only start paying when they get a good job.*
@@ -40,7 +42,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 3-2: *HTML & CSS - Getting Started with CSS*
   > - [x] 3-3: *HTML & CSS - Selectors and positioning*
   > - [x] 3-4: *Semantic HTML*
-  > - [x] *[Project - HTML & CSS](https://gui-alucard.github.io/Block03-Project-HTML-CSS/project-html-css/)*
+  > - [x] *Project - HTML & CSS*
 
   </details>
   <!-- BLOCK 4 -->
@@ -63,9 +65,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 5-3: *JavaScript - Events*
   > - [x] 5-4: *JavaScript - Web Storage*
   > - [x] 5-5: *Introduction - JavaScript - Projects*
-  > - [x] *[Project - Meme Generator](https://gui-alucard.github.io/Block05-Project-Meme-Generator/)*
-  > - [x] *[Project - Art with Pixels](https://gui-alucard.github.io/Block05-Project-Art-with-Pixels/)*
-  > - [x] *[Project - Task List](https://gui-alucard.github.io/Block05-Project-Task-List/)*
+  > - [x] *Project - Meme Generator*
+  > - [x] *Project - Art with Pixels*
+  > - [x] *Project - Task List*
   > - [x] 5-7: *(Bonus) Project - Guess the Color*
   > - [x] 5-7: *(Bonus) Project - Mysterious Card*
 
@@ -82,7 +84,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 6-3: *CSS Flexbox - Part 1*
   > - [x] 6-4: *CSS Flexbox - Part 2*
   > - [x] 6-5: *Responsive CSS - Mobile First*
-  > - [x] *[Project - Facebook home](https://gui-alucard.github.io/Block06-Project-Facebook-home/)*
+  > - [x] *Project - Facebook home*
 
   </details>
 
@@ -93,7 +95,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 7-1: *JavaScript ES6 - let, const, arrow functions and template literals*
   > - [x] 7-2: *JavaScript ES6 - Objects*
   > - [x] 7-3: *JavaScript unit tests*
-  > - [x] *[Project - JavaScript Unit Tests](https://github.com/Gui-Alucard/Block07-Project-JavaScript-Unit-Tests)*
+  > - [x] *Project - JavaScript Unit Tests*
 
   </details>
 
@@ -105,7 +107,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 8-2: *JavaScript ES6 - Higher Order Functions - map and filter*
   > - [x] 8-3: *JavaScript ES6 - Higher Order Functions - reduce*
   > - [x] 8-4: *JavaScript ES6 - spread operator, rest parameter, destructuring and more*
-  > - [x] *[Project - Zoo functions](https://github.com/Gui-Alucard/Block08-Project-Zoo-functions)*
+  > - [x] *Project - Zoo functions*
 
   </details>
 
@@ -115,7 +117,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   > - [x] 9-1: *Asynchronous JavaScript and Callbacks*
   > - [x] 9-2: *JavaScript Promises*
-  > - [x] *[Project - Shopping Cart](https://gui-alucard.github.io/Block09-Project_Shop_cart/)*
+  > - [x] *Project - Shopping Cart*
 
   </details>
 
@@ -126,7 +128,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 10-1: *First steps at Jest*
   > - [x] 10-2: *Jest - Asynchronous Tests*
   > - [x] 10-3: *Jest - Simulating behaviors*
-  > - [x] *[Project - Asynchronous Jest and Mocking](https://github.com/Gui-Alucard/Block10-Project_Mock_Assync)*
+  > - [x] *Project - Asynchronous Jest and Mocking*
 
   </details>
 </details>
@@ -142,7 +144,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 11-1: *Introduction - React*
   > - [x] 11-1: *'Hello, world!' in React!*
   > - [x] 11-2: *React Components*
-  > - [x] *[Project - Movie Cards Library](https://gui-alucard.github.io/Block11-Project_Movie_Card/)*
+  > - [x] *Project - Movie Cards Library*
 
   </details>
 
@@ -152,7 +154,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   > - [x] 12-1: *Components with status and events*
   > - [x] 12-2: *React  forms*
-  > - [x] *[Project - Movie Cards Library Stateful](https://gui-alucard.github.io/Block12-Project_MovieCard_Stateful/)*
+  > - [x] *Project - Movie Cards Library Stateful*
 
   </details>
 
@@ -162,7 +164,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   > - [x] 13-1: *Components life cycle*
   > - [x] 13-2: *React Router*
-  > - [x] *[Project - Movie Cards Library CRUD](https://gui-alucard.github.io/Block13-Project_MovieCard_CRUD/)*
+  > - [x] *Project - Movie Cards Library CRUD*
 
   </details>
 
@@ -171,7 +173,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <summary>Block 14: Agile Methodologies :heavy_check_mark:</summary>
 
   > - [x] 14-1: *Agile Methodologies*
-  > - [x] *[Project - Frontend Online Store](https://gui-alucard.github.io/Block14-Project-Agile/)*
+  > - [x] *Project - Frontend Online Store*
 
   </details>
 
@@ -182,7 +184,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 15-1: *RTL - First steps*
   > - [x] 15-2: *RTL - Mocks and Inputs*
   > - [x] 15-3: *RTL - Testing React Router*
-  > - [x] *[Project - React Tests](https://github.com/Gui-Alucard/Block15-Project-RTL)*
+  > - [x] *Project - React Tests*
 
   </details>
 
@@ -195,7 +197,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [X] 16-3: *React with Redux - Practice*
   > - [X] 16-4: *React with Redux - Part 2*
   > - [X] 16-5: *Synchronous tests with React-Redux*
-  > - [x] *[Project - Wallet - UPLOADING]()*
+  > - [x] *Project - Wallet*
 
   </details>
 
@@ -203,7 +205,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 17: Project Trivia Game :heavy_check_mark:</summary>
 
-  > - [x] *[Project - Trivia Game - UPLOADING]()*
+  > - [x] *Project - Trivia Game*
 
   </details>
 
@@ -214,7 +216,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [X] 18-1: *React Context API*
   > - [X] 18-2: *React Hooks - useState and useContext*
   > - [X] 18-3: *React Hooks - useEffect and custom Hooks*
-  > - [x] *[Project - Datatable StarWars with Context API and Hooks - UPLOADING]()*
+  > - [x] *Project - Datatable StarWars with Context API and Hooks*
 
   </details>
 
@@ -222,7 +224,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 19: Final Front-end Project :heavy_check_mark:</summary>
 
-  > - [x] *[Project - Recipe App](https://gui-alucard.github.io/app-receitas/)*
+  > - [x] *Project - Recipe App*
 
   </details>
 ​</details>
