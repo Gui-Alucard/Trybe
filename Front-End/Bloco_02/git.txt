@@ -1,52 +1,0 @@
-GIT & GITHUB
-
-Esses dois comandos são excludentes, ou seja, você ou usa um, ou usa o outro, nunca os dois ao mesmo tempo. Após isso, siga um dos dois fluxos abaixo
-* Fluxo 1 - Após git init;
-    1. Criar seu primeiro commit; 
-    2. Criar o repositório remoto na sua conta do GitHub; 
-    3. Adicionar a URL do repositório remoto; 
-    4. Executar o famoso push. 
-* Fluxo 2 - Após git clone;
-    1. Criar sua branch dentro do repositório clonado; 
-    2. Fazer checkout na sua branch; 
-    3. Criar seu primeiro commit; 
-    4. Executar o famoso push.
-
-Git init = inicia o git
-Git add = add
-Git Commit = adiciona algo dentro do arquivo
-Git status
-Git log . = mostra o log de tudo na pasta
-Git log NomeDoArquivo = mostra o log do arquivo
-Git merge
-Git branch
-Git form
-Git branch -D = remove a branch
-
-git log - -diff-filter=D  - -summary = mostra infos sobre arquivos D Deletados.
-
-Git checkout IDdoCommit~1 NomeDoArquivo = Restaura o arquivo.
-
-git clone UrlDoRepositório = baixar do GitHub
-
-git remote add origin "URL_DO_REPOSITÓRIO" = add uma url de destino do GitHub
-
-Git  remote set-url origin “URL_DO_REPOSITÓRIO” = muda a url
-
-Git remote origin URL_DO_REPOSITÓRIO = remove a url
-
-git remote -v = verifica a url
-
-git push origin master = sobe pro GitHub
-
-git remote set-url origin NomeDaURL
-
-
-GIT IGNORE: .gitignore
-
-* Arquivos compilados, como .so e .class;
-* Dependências gerenciadas por gerenciadores de dependências, como o Bower, mencionado acima (NOTA: Seus arquivos de configuração, como o bower.json, DEVEM ser persistidos no repositório); Bower (clique para ver um tutorial básico de uso do Bower)
-* Arquivos temporários de build;
-* Arquivos privados locais (como por exemplo, arquivos que guardam dados secretos no container de injeção de dependências);
-* Arquivos pessoais salvos pela IDE;
-
